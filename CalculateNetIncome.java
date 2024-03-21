@@ -2,7 +2,7 @@ package calculator;
 
 import java.util.Scanner;
 
-public class Main {
+public class NetIncomeCalculator {
     public static void main(String[] args) {
 
         // Create variables representing earned amounts for each item sold
