@@ -1,15 +1,12 @@
 # Net Income Calculator
 
 ### Overview
-This project was inspired by the simple yet essential need of a small corner shop owner wanting to determine their earnings in the first month of operation. The Net Income Calculator is a Java-based tool that allows small business owners to calculate their net income easily by entering their earned amounts from various items sold and subtracting their expenses.
-
-Designed to be user-friendly and efficient, this tool streamlines the process of accounting for small businesses, making it an excellent solution for owners who prefer to manage their finances without the complexity of full-fledged accounting software. Whether you're selling bubblegum, toffee, ice cream, chocolate, doughnuts, or pancakes, this calculator can help you keep track of your earnings and expenses with ease.
+This project simulates the need of a small corner shop owner wanting to determine their earnings in the first month of operation. The Net Income Calculator is a Java-based tool that allows small business owners to calculate their net income easily by entering their earned amounts from various items sold and subtracting their expenses.
 
 ### Features
-Calculate total income based on individual item sales
-Input for staff and other expenses to calculate total expenses
-Simple and intuitive user interface via the command line
-Immediate calculation of net income to assist in financial planning
+- Calculate total income based on individual item sales
+- Accepts user input to calculate expenses
+- Simple interface via the command line
 
 ### Skills Covered/Learned
 - Java Programming Basics: The project is written in Java, covering fundamental concepts like variables, data types, operators, and control structures.
