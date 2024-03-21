@@ -20,11 +20,11 @@ To run the NetIncomeCalculator locally, follow these steps:
 ```
 javac NetIncomeCalculator.java
 ````
-5. **Run the Project**: After compilation, run the program with:
+4. **Run the Project**: After compilation, run the program with:
 ```
 java NetIncomeCalculator
 ```
-7. **Follow On-screen Prompts**: Enter the required inputs as prompted to calculate the net income.
+5. **Follow On-screen Prompts**: Enter the required inputs as prompted to calculate the net income.
 
 
 
