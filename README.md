@@ -17,10 +17,14 @@ To run the NetIncomeCalculator locally, follow these steps:
 2. **Download the Project**: Clone or download the project files to your local machine.
 
 3. **Compile the Project**: Open a terminal and navigate to the project directory where `NetIncomeCalculator.java` is located. Compile the project using the following command:
-`javac NetIncomeCalculator.java`
-4. **Run the Project**: After compilation, run the program with:
-`java NetIncomeCalculator`
-5. **Follow On-screen Prompts**: Enter the required inputs as prompted to calculate the net income.
+```
+javac NetIncomeCalculator.java
+````
+5. **Run the Project**: After compilation, run the program with:
+```
+java NetIncomeCalculator
+```
+7. **Follow On-screen Prompts**: Enter the required inputs as prompted to calculate the net income.
 
 
 
