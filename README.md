@@ -19,15 +19,12 @@ To run the NetIncomeCalculator locally, follow these steps:
 3. **Compile the Project**: Open a terminal and navigate to the project directory where `NetIncomeCalculator.java` is located. Compile the project using the following command:
 ```
 javac NetIncomeCalculator.java
-````
-4. **Run the Project**: After compilation, run the program with:
+```
+4. ***Run the Project***: After compilation, run the program with:
 ```
 java NetIncomeCalculator
 ```
-5. **Follow On-screen Prompts**: Enter the required inputs as prompted to calculate the net income.
-
-
-
+5. ***Follow On-screen Prompts***: Enter the required inputs as prompted to calculate the net income.
 
 
 ### Skills learned
@@ -35,3 +32,7 @@ java NetIncomeCalculator
 - Console Input/Output: Utilizes the Scanner class for input and System.out for output, practicing handling user input and displaying information back to the user.
 - String Formatting: Demonstrates the use of printf for formatting strings, which is crucial for displaying monetary values in a user-friendly manner.
 - Basic Arithmetic Operations: Implements addition, subtraction, and basic arithmetic to calculate total income, expenses, and net income.
+
+### Future improvements
+- Refactor code to make it more modular by incorporating helper methods called by a main method.
+- Incorporate exception handling for invalid inputs by users.
